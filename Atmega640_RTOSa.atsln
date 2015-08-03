@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Atmega640_RTOSa", "Atmega640_RTOSa\Atmega640_RTOSa.cproj", "{1D7C2C39-9C91-4F7F-8C89-8C43E0CFFDD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D7C2C39-9C91-4F7F-8C89-8C43E0CFFDD5}.Debug|AVR.ActiveCfg = Debug|AVR
+		{1D7C2C39-9C91-4F7F-8C89-8C43E0CFFDD5}.Debug|AVR.Build.0 = Debug|AVR
+		{1D7C2C39-9C91-4F7F-8C89-8C43E0CFFDD5}.Release|AVR.ActiveCfg = Release|AVR
+		{1D7C2C39-9C91-4F7F-8C89-8C43E0CFFDD5}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
